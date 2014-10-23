@@ -1,24 +1,3 @@
-LucidaSans			LucidaSans
-LucidaSans-Demi 		LucidaSans-Demi
-LucidaSans-DemiItalic 		LucidaSans-DemiItalic
-LucidaSans-Italic 		LucidaSans-Italic
-LucidaSans-Typewriter83	LucidaSans-Typewriter83
-LucidaSansUnicode00		lsunr00.pfa
-LucidaSansUnicode01		lsunr01.pfa
-LucidaSansUnicode02		lsunr02.pfa
-LucidaSansUnicode03		lsunr03.pfa
-LucidaSansUnicode04		lsunr04.pfa
-LucidaSansUnicode05		lsunr05.pfa
-LucidaSansUnicode20		lsunr20.pfa
-LucidaSansUnicode21		lsunr21.pfa
-LucidaSansUnicode22		lsunr22.pfa
-LucidaSansUnicode24		lsunr24.pfa
-LucidaSansUnicode25		lsunr25.pfa
-LucidaTypewriter 		LucidaTypewriter
-
-% alias for troff
-LucidaCW			LucidaTypewriter
-
 % Postscript versions of TeX fonts
 CMB10		cm/cmb10.pfa
 CMBSY10		cm/cmbsy10.pfa
